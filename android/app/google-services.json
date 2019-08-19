@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "905341650898",
+    "firebase_url": "https://flutter-joe-sample.firebaseio.com",
+    "project_id": "flutter-joe-sample",
+    "storage_bucket": "flutter-joe-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905341650898:android:be7a5978304fe0b2",
+        "android_client_info": {
+          "package_name": "com.kibalitek.flutter_firestore_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905341650898-tca3ha1rblbr0bgl8r28hhj9c85lmdf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtnSDEkHaIycPvOdDnb-b4d8s8uaySE_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905341650898-tca3ha1rblbr0bgl8r28hhj9c85lmdf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
