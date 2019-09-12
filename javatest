@@ -1,0 +1,15 @@
+file:///C:/Users/Joe/Pictures/java.jpg
+void main() {
+final int a = 1;
+  const int b = 2;
+  print('The sum is ${a + b}');
+  }
+// optional typing
+// Static typing - type is stated when declaring the variable, and cannot change
+// integer- int
+// floating point - double
+// number- num
+// words/ text - String
+// true or false - bool
+//String interpolation
+C:\Users\Joe\Documents\GitHub\uganda_cities\images (4).jpg
