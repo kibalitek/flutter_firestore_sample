@@ -1,0 +1,33 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package javateam.trial1;
+
+/**
+ *
+ * @author Joe
+ */
+class Student {
+    // variable declarations
+    int id;
+    String name;
+    String gender;
+    // method definitions
+    boolean updateProfile(String newName){
+        name = newName;
+        return true;
+       class <StudentTest>{
+           public void main(String[]args){
+            //creating a new student object
+            Student s = new Student();
+            //setting student's state
+            s.id = 1000;
+            s.name = "phabian";
+            s.gender = "male";
+            
+            
+        }
+        
+    }
